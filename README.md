@@ -9,21 +9,21 @@
 - 本项目现有云服务器2台，可以保证最近5年完全免费、公益。
 - 感谢我的导师，香港大学张教授赞助8千港币，支持该项目长期免费公益运行。
 
-### 自由门浏览器工作原理
+<a href="https://lanlan2017.github.io/download/PhraseEdit.txt" download="PhraseEdit.txt">下载自由门浏览器</a>
 
+
+### 自由门浏览器工作原理
 ![](https://github.com/wangfei1988/freegatebrowser/screenshot/ad1.png)
 
 ### Google 
-
 ![](https://github.com/wangfei1988/freegatebrowser/screenshot/ad2.png)
 
 ### FaceBook
-
 ![](https://github.com/wangfei1988/freegatebrowser/screenshot/ad3.png)
 
 ### Google Search1
-
 ![](https://github.com/wangfei1988/freegatebrowser/screenshot/ad4.png)
 
 ### Google Search2
 ![](https://github.com/wangfei1988/freegatebrowser/screenshot/ad5.png)
+
