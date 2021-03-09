@@ -13,7 +13,7 @@
 
 
 ### 自由门浏览器工作原理
-![](https://github.com/wangfei1988/freegatebrowser/screenshot/ad1.png)
+![](https://github.com/wangfei1988/freegatebrowser/blob/main/screenshot/ad1.png)
 
 ### Google 
 ![](https://github.com/wangfei1988/freegatebrowser/screenshot/ad2.png)
